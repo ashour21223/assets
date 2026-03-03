@@ -1,0 +1,12 @@
+{
+  "name": "ReflectFlow",
+  "symbol": "RFLW",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "ReflectFlow is a DeFi ecosystem built for automated wealth and long-term accumulation, featuring 2% reflections.",
+  "website": "https://ashour21223.github.io/ReflectFlow/",
+  "explorer": "https://bscscan.com/token/0xe0f6D608ba6A8743Aa7ECe28598630A4A9eD3830",
+  "status": "active",
+  "id": "0xe0f6D608ba6A8743Aa7ECe28598630A4A9eD3830"
+}
+
